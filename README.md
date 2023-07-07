@@ -1,7 +1,7 @@
 ![masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AD-tjflTA7OBb9wZWoV4XElmHb5m-MUeMg&usqp=CAU)
-<h1 align="center">Hi 👋, I'm Harish Kadam</h1>
+<h1 align="center">Hi , I'm Harish Kadam</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Java Developer of Full stack Developer from India</h3>
 
 <img align="right" alt="Coding" width"=400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo-6H4WREiWvqm12q0XGWa1AGyyHTe9s4fdw&usqp=CAU">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamharishkadam" target="blank"><img src="https://img.shields.io/twitter/follow/iamharishkadam?logo=twitter&style=for-the-badge" alt="iamharishkadam" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+-  I’m currently learning **React Native**
 
-- 💬 Ask me about **Java**
+-  Ask me about **Java**
 
-- 📫 How to reach me **kadamharish98@gmail.com**
+-  How to reach me **kadamharish98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
