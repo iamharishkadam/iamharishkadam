@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharishkadam&label=Profile%20views&color=0e75b6&style=flat" alt="iamharishkadam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamharishkadam" target="blank"><img src="https://img.shields.io/twitter/follow/iamharishkadam?logo=twitter&style=for-the-badge" alt="iamharishkadam" /></a> </p>
-
 -  I’m currently learning **React Native**
 
 -  Ask me about **Java**
