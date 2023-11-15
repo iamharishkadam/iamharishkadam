@@ -3,7 +3,7 @@
 
 <h3 align="center">A Passionate Java Developer or Full stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo-6H4WREiWvqm12q0XGWa1AGyyHTe9s4fdw&usqp=CAU">
+<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo-6H4WREiWvqm12q0XGWa1AGyyHTe9s4fdw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharishkadam&label=Profile%20views&color=0e75b6&style=flat" alt="iamharishkadam" /> </p>
 
