@@ -17,12 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamharishkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharishkadam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamharishkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharishkadam" height="30" width="40" /></a>
-<a href="https://fb.com/iamharishkadam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamharishkadam1" height="30" width="40" /></a>
-<a href="https://instagram.com/iamharishkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamharishkadam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/harishkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harishkadam" height="30" width="40" /></a>
-<a href="https://discord.gg/iamharishkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamharishkadam" height="30" width="40" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=iamharishkadam&label=Profile%20views&color=0e75b6&style=flat)
+
+![Twitter](https://img.shields.io/twitter/follow/iamharishkadam?logo=twitter&style=for-the-badge)
+
+![Coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo-6H4WREiWvqm12q0XGWa1AGyyHTe9s4fdw&usqp=CAU)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamharishkadam&show_icons=true&locale=en)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iamharishkadam&show_icons=true&locale=en&layout=compact)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
