@@ -20,11 +20,6 @@
 
 ![Twitter](https://img.shields.io/twitter/follow/iamharishkadam?logo=twitter&style=for-the-badge)
 
-![Coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo-6H4WREiWvqm12q0XGWa1AGyyHTe9s4fdw&usqp=CAU)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamharishkadam&show_icons=true&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iamharishkadam&show_icons=true&locale=en&layout=compact)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
