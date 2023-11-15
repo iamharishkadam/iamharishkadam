@@ -1,7 +1,7 @@
 ![masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AD-tjflTA7OBb9wZWoV4XElmHb5m-MUeMg&usqp=CAU)
 <h1 align="center">Hi , I'm Harish Kadam</h1>
 
-<h3 align="center">A Passionate Java Developer of Full stack Developer from India</h3>
+<h3 align="center">A Passionate Java Developer or Full stack Developer from India</h3>
 
 <img align="right" alt="Coding" width"=400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo-6H4WREiWvqm12q0XGWa1AGyyHTe9s4fdw&usqp=CAU">
 
