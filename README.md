@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![Profile Views](https://komarev.com/ghpvc/?username=iamharishkadam&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ![Twitter](https://img.shields.io/twitter/follow/iamharishkadam?logo=twitter&style=for-the-badge)
 
